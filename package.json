@@ -1,0 +1,14 @@
+{
+  "name": "nodestuff",
+  "version": "0.0.0",
+  "description": "Learning how to Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lea",
+  "license": "none",
+  "engines": {
+        "node": "0.10.20"
+    }
+}
